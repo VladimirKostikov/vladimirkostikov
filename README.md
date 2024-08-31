@@ -76,6 +76,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/51960834?s=400&v=4" height="40" alt="livewire logo"  />
+  <img width="12" />
+  <img src="https://vladimirkostikov.com/storage/uploads/icons/YnJmhp1y9GO3Zrn769uu2PoyWz4jFLBQ2okG3spv.png" height="40" alt="livewire logo"  />
 </div>
 
 ###
