@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ 4 years of work experience<br>📚 Bachelor of Science in Computer Science and Engineering<br>💼 More than 50 completed projects<br>📖 More than 10 books studied</p>
+<p align="left">✨ 4 years of work experience<br>📚 Bachelor of Science in Computer Science and Engineering<br>💼 More than 50 completed projects<br>📖 More than 10 books studied<br>🗣️Languages: Russian, English, German</p>
 
 ###
 
